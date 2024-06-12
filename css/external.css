@@ -1,0 +1,20 @@
+div {
+    background-color: red;
+}
+
+#two {
+    background-color: red;
+
+}
+
+.two {
+    background-color: pink;
+}
+
+a[href='http://google.com'] {
+    background: violet;
+}
+
+input[type='text']{
+    background-color: yellowgreen;
+}
